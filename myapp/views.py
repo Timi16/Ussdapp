@@ -21,7 +21,7 @@ def callback(request):
 
     elif text == "1":
         # Deduct airtime
-        africastalking = AfricasTalking(username='timilehinolowu46@gmail.com', api_key='24888b8c2f2534b35a7b5ff3a2c732566085709403d78a62f00ad2e3a050df4e')
+        africastalking = AfricasTalking(username='timilehinolowu46@gmail.com', api_key='de826c4c9391c5760460e7e3430a2d5836b9b0f5c18f34fe53dd8b009fae8a40')
         airtime_amount = 10  # Adjust the amount as per your requirement
         airtime_recipient = phone_number
 
