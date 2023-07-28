@@ -1,4 +1,4 @@
 africastalking==1.2.5
 gunicorn==21.2.0
-
+Django==4.0
 
