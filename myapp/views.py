@@ -16,7 +16,7 @@ def callback(request):
     if text == "":
         # Initial USSD screen
         response = "CON Welcome to The number 1 App!\n"
-        response += "1. Stand a chance to Win a Smart phone click 1 to Apply\n""n""
+        response += "1. Stand a chance to Win a Smart phone click 1 to Apply\n"
         response += "2. Exit"
 
     elif text == "1":
